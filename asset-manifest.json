@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/raconet/static/css/main.5f361e03.chunk.css",
-    "main.js": "/raconet/static/js/main.1fa33b0f.chunk.js",
-    "main.js.map": "/raconet/static/js/main.1fa33b0f.chunk.js.map",
+    "main.css": "/raconet/static/css/main.35e4edec.chunk.css",
+    "main.js": "/raconet/static/js/main.62829fae.chunk.js",
+    "main.js.map": "/raconet/static/js/main.62829fae.chunk.js.map",
     "runtime-main.js": "/raconet/static/js/runtime-main.ee003eac.js",
     "runtime-main.js.map": "/raconet/static/js/runtime-main.ee003eac.js.map",
-    "static/js/2.d170713a.chunk.js": "/raconet/static/js/2.d170713a.chunk.js",
-    "static/js/2.d170713a.chunk.js.map": "/raconet/static/js/2.d170713a.chunk.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/raconet/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.bfca8c2d.chunk.js": "/raconet/static/js/2.bfca8c2d.chunk.js",
+    "static/js/2.bfca8c2d.chunk.js.map": "/raconet/static/js/2.bfca8c2d.chunk.js.map",
     "index.html": "/raconet/index.html",
-    "precache-manifest.72855467b55d7a6656aec009afd749fe.js": "/raconet/precache-manifest.72855467b55d7a6656aec009afd749fe.js",
+    "precache-manifest.dc8d1e2701dd3119682d246153d163c1.js": "/raconet/precache-manifest.dc8d1e2701dd3119682d246153d163c1.js",
     "service-worker.js": "/raconet/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/raconet/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d170713a.chunk.js.LICENSE.txt": "/raconet/static/js/2.d170713a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/raconet/static/media/logo.5d5d9eef.svg"
+    "static/css/2.829c9cb5.chunk.css.map": "/raconet/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.35e4edec.chunk.css.map": "/raconet/static/css/main.35e4edec.chunk.css.map",
+    "static/js/2.bfca8c2d.chunk.js.LICENSE.txt": "/raconet/static/js/2.bfca8c2d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/raconet/static/media/carousel-bg.fd4cdde0.png",
+    "static/media/logo.svg": "/raconet/static/media/logo.5d5d9eef.svg",
+    "static/media/menu1.png": "/raconet/static/media/menu1.2d1d1fe0.png",
+    "static/media/menu2.png": "/raconet/static/media/menu2.0589c0d4.png",
+    "static/media/menu3.png": "/raconet/static/media/menu3.63aa8289.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee003eac.js",
-    "static/js/2.d170713a.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1fa33b0f.chunk.js"
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.bfca8c2d.chunk.js",
+    "static/css/main.35e4edec.chunk.css",
+    "static/js/main.62829fae.chunk.js"
   ]
 }
