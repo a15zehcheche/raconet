@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import '../App.css';
+import menu1 from '../res/bar1/menu2.png';
+import menu2 from '../res/bar1/menu1.png';
+import menu3 from '../res/bar1/menu3.png';
 
-
-import menu1 from '../res/menu1.png';
-import menu2 from '../res/menu2.png';
-import menu3 from '../res/menu3.png';
 
 class Carta extends Component {
 
