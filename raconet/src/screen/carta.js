@@ -17,18 +17,19 @@ class Carta extends Component {
     }
    
     render() {
-        const mystyle = {
-            'width':'100%',
+        const mystyle = {            
         }
         const imgStyle = {
             'width':'100%',
         }
         return (
-           <div style={mystyle} >
+           <div style={mystyle} class="share" >
                <img  style={imgStyle} src={menu1}/>
                <img  style={imgStyle} src={menu2}/>
                <img  style={imgStyle} src={menu3}/>
+               
            </div>
+   
         )
 
     };
