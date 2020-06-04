@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom';
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, BrowserRouter, Route, Switch } from 'react-router-dom';
 
 
 import './index.css';
@@ -10,9 +10,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
  
-      <BrowserRouter basename={`${process.env.PUBLIC_URL}/`}>
+      <HashRouter>
         <App />
-      </BrowserRouter>,
+      </HashRouter>,
   document.getElementById('root')
 );
 
