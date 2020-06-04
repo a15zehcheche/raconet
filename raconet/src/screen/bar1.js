@@ -26,7 +26,7 @@ class Carta extends Component {
                <img  style={imgStyle} src={menu1}/>
                <img  style={imgStyle} src={menu2}/>
                <img  style={imgStyle} src={menu3}/>
-               <Qr link={'https://a15zehcheche.github.io/raconet/bar1'}/>
+               <Qr link={'https://a15zehcheche.github.io/raconet/#/bar1'}/>
            </div>
    
         )
