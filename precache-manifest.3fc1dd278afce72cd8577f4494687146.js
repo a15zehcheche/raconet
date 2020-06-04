@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f0c4a7f947885b70af20aed85c735a7",
+    "revision": "a3eb88bcdc454c341d75681d0b1e7d53",
     "url": "/raconet/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raconet/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "49682cf68396c1967767",
+    "revision": "b3c9b95e5d620ff75e46",
     "url": "/raconet/static/css/main.1b4dfc1f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raconet/static/js/2.da75c82d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49682cf68396c1967767",
-    "url": "/raconet/static/js/main.c59fc383.chunk.js"
+    "revision": "b3c9b95e5d620ff75e46",
+    "url": "/raconet/static/js/main.cb13705c.chunk.js"
   },
   {
     "revision": "203ea9fb2382321bb52f",
