@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19669ab8c6adb9e7c3f74443cb82d5a5",
+    "revision": "e29539a38ef6437645d1b938cd7cfe92",
     "url": "/raconet/index.html"
   },
   {
-    "revision": "274a7e8c7d1eff9224f7",
+    "revision": "4c4a7c943fb2653745f4",
     "url": "/raconet/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "9048546a2de7210243ee",
+    "revision": "df38f6f00c4cc4b2717a",
     "url": "/raconet/static/css/main.1b4dfc1f.chunk.css"
   },
   {
-    "revision": "274a7e8c7d1eff9224f7",
-    "url": "/raconet/static/js/2.da75c82d.chunk.js"
+    "revision": "4c4a7c943fb2653745f4",
+    "url": "/raconet/static/js/2.cb7f9326.chunk.js"
   },
   {
     "revision": "0b08544f54c9906705be39c03b7e79ad",
-    "url": "/raconet/static/js/2.da75c82d.chunk.js.LICENSE.txt"
+    "url": "/raconet/static/js/2.cb7f9326.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9048546a2de7210243ee",
-    "url": "/raconet/static/js/main.dbc307a0.chunk.js"
+    "revision": "df38f6f00c4cc4b2717a",
+    "url": "/raconet/static/js/main.49762908.chunk.js"
   },
   {
     "revision": "203ea9fb2382321bb52f",
