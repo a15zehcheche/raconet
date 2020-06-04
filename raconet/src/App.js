@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link, Route, Switch } from "react-router-dom";
 
+
 import logo from './logo.svg';
 import './App.css';
 import HomePage from './screen/home'
@@ -12,11 +13,10 @@ import Qr from './screen/qr'
 function App() {
   return (
     <div>
-          <Route exact={true}  path="/raconet/" component={HomePage}  />
-
-          <Route path="/raconet/bar" component={Carta} /> 
-          <Route path="/bar1" component={Carta1} />
-          <Route path="/bar2" component={Carta2} />
+          <Route exact={true}  path= {process.env.PUBLIC_URL + "/"} component={HomePage}  />
+          <Route path= {process.env.PUBLIC_URL + "/bar"} component={Carta} /> 
+          <Route path= {process.env.PUBLIC_URL + "/bar1"}component={Carta1} />
+          <Route path= {process.env.PUBLIC_URL + "/bar2"} component={Carta2} />
           <Route path="/qr" component={Qr} />
     </div>
   );
